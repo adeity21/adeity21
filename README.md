@@ -1,6 +1,4 @@
--Hi, I’m @adeity21
--I like music, books and coding. 
--Always in search of learning something new. 
+Hi, I’m @adeity21. I like music, books and coding. Always in search of learning something new. 
 
 
 <!---
