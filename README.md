@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Aditi.</h1>
-<h3 align="center">A developer, a bibliophile, a programmer and a foodie :D</h3>
+<h3 align="center">Welcome to my profile :D</h3>
 
 <h3 align="left">You can connect with me here:</h3>
 <p align="left">
