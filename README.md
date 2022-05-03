@@ -2,13 +2,13 @@
 <img width="400px" height = "250px" src="https://media4.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1>Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adeity21.adeity21)
 
 </p>
-<div size='20px'> Hi! My name is Aditi Khanna. Welcome to my profile :)
+<div size='20px'>I am Aditi. Welcome to my profile :)
 </div>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
